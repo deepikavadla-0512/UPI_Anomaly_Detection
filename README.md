@@ -5,7 +5,6 @@
 **AI-powered system to detect suspicious UPI transactions using Autoencoders.**  
 This project simulates UPI transaction data and detects anomalies (potential fraud) using a trained autoencoder model. It includes interactive dashboards, live transaction simulation, and downloadable reports.
 
----
 
 ## 🌟 Features
 
@@ -20,36 +19,29 @@ This project simulates UPI transaction data and detects anomalies (potential fra
 
 Experience the app live:
 
-[💳 Open Live App](https://your-render-link.onrender.com)
+[💳 Open Live App](https://upi-anomaly-detection.onrender.com/)
 
----
 
 ## 📊 Screenshots
 
-![Dashboard Screenshot](<img width="1920" height="1080" alt="Screenshot" src="https://github.com/user-attachments/assets/ee2817b2-e6e6-48b0-899f-565db962d4cc" />
 <img width="1920" height="1080" alt="Screenshot" src="https://github.com/user-attachments/assets/ee2817b2-e6e6-48b0-899f-565db962d4cc" />
-
-)
+<img width="1920" height="1080" alt="Screenshot" src="https://github.com/user-attachments/assets/ee2817b2-e6e6-48b0-899f-565db962d4cc" />
 *Before uploading of Dataset.*
 
-![Dashboard Screenshot](<img width="1920" height="1080" alt="Screenshot1" src="https://github.com/user-attachments/assets/c1dcf5ed-2c51-4022-bea8-4ce4621c9cba" />
+
 <img width="1920" height="1080" alt="Screenshot1" src="https://github.com/user-attachments/assets/c1dcf5ed-2c51-4022-bea8-4ce4621c9cba" />
-)  
+<img width="1920" height="1080" alt="Screenshot1" src="https://github.com/user-attachments/assets/c1dcf5ed-2c51-4022-bea8-4ce4621c9cba" />
 *Reconstruction error distribution.*
 
-![Anomalies Table](<img width="1920" height="1080" alt="Screenshot5" src="https://github.com/user-attachments/assets/43bb2678-22b8-4bb0-9f3c-ea0b46080707" />
+
 <img width="1920" height="1080" alt="Screenshot5" src="https://github.com/user-attachments/assets/43bb2678-22b8-4bb0-9f3c-ea0b46080707" />
-)  
+<img width="1920" height="1080" alt="Screenshot5" src="https://github.com/user-attachments/assets/43bb2678-22b8-4bb0-9f3c-ea0b46080707" />
 *Confusion matrix.*
 
-![Alerts](<img width="1920" height="1080" alt="Screenshot4" src="https://github.com/user-attachments/assets/ef366b48-792a-4f32-9c15-6cad5ebde612" />
 <img width="1920" height="1080" alt="Screenshot4" src="https://github.com/user-attachments/assets/ef366b48-792a-4f32-9c15-6cad5ebde612" />
-)  
+<img width="1920" height="1080" alt="Screenshot4" src="https://github.com/user-attachments/assets/ef366b48-792a-4f32-9c15-6cad5ebde612" />
 *High-risk transaction alerts.*
 
-> Replace screenshots with your own from the deployed app for best presentation.
-
----
 
 ## 🛠️ Technologies Used
 
@@ -126,6 +118,7 @@ Use CSV files with the same columns as in training (transaction_id, sender_upi, 
 Live simulation uses the same preprocessing and model for instant anomaly detection.
 
 Dashboard and visualizations are fully interactive using Plotly.
+
 
 
 
