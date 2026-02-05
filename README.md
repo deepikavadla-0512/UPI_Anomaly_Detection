@@ -42,6 +42,8 @@ Experience the app live:
 
 *High-risk transaction alerts.*
 
+## 📦 Release
+🔖 Latest Release: https://github.com/deepikavadla-0512/UPI_Anomaly_Detection/releases/tag/v1.0.0
 
 ## 🛠️ Technologies Used
 
@@ -118,6 +120,7 @@ Use CSV files with the same columns as in training (transaction_id, sender_upi, 
 Live simulation uses the same preprocessing and model for instant anomaly detection.
 
 Dashboard and visualizations are fully interactive using Plotly.
+
 
 
 
